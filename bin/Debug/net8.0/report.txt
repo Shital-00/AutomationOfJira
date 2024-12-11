@@ -1,0 +1,3 @@
+Total JiraTickets Count : 19
+Total Count Of Downloading Images : 18
+Remaining Count Of Images : 1

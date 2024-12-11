@@ -1,0 +1,6 @@
+C:\Users\Shravan Muniyoor\Desktop\NewJiraAutomation\NewJiraAutomation.exe
+C:\Users\Shravan Muniyoor\Desktop\NewJiraAutomation\NewJiraAutomation.dll
+C:\Users\Shravan Muniyoor\Desktop\NewJiraAutomation\NewJiraAutomation.deps.json
+C:\Users\Shravan Muniyoor\Desktop\NewJiraAutomation\NewJiraAutomation.runtimeconfig.json
+C:\Users\Shravan Muniyoor\Desktop\NewJiraAutomation\NewJiraAutomation.pdb
+C:\Users\Shravan Muniyoor\Desktop\NewJiraAutomation\Newtonsoft.Json.dll

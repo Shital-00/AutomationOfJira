@@ -1,0 +1,17 @@
+D:\JIra\NewJiraAutomation\bin\Release\net8.0\NewJiraAutomation.exe
+D:\JIra\NewJiraAutomation\bin\Release\net8.0\NewJiraAutomation.deps.json
+D:\JIra\NewJiraAutomation\bin\Release\net8.0\NewJiraAutomation.runtimeconfig.json
+D:\JIra\NewJiraAutomation\bin\Release\net8.0\NewJiraAutomation.dll
+D:\JIra\NewJiraAutomation\bin\Release\net8.0\NewJiraAutomation.pdb
+D:\JIra\NewJiraAutomation\bin\Release\net8.0\Newtonsoft.Json.dll
+D:\JIra\NewJiraAutomation\obj\Release\net8.0\NewJiraAutomation.csproj.AssemblyReference.cache
+D:\JIra\NewJiraAutomation\obj\Release\net8.0\NewJiraAutomation.GeneratedMSBuildEditorConfig.editorconfig
+D:\JIra\NewJiraAutomation\obj\Release\net8.0\NewJiraAutomation.AssemblyInfoInputs.cache
+D:\JIra\NewJiraAutomation\obj\Release\net8.0\NewJiraAutomation.AssemblyInfo.cs
+D:\JIra\NewJiraAutomation\obj\Release\net8.0\NewJiraAutomation.csproj.CoreCompileInputs.cache
+D:\JIra\NewJiraAutomation\obj\Release\net8.0\NewJiraA.E5D8D42D.Up2Date
+D:\JIra\NewJiraAutomation\obj\Release\net8.0\NewJiraAutomation.dll
+D:\JIra\NewJiraAutomation\obj\Release\net8.0\refint\NewJiraAutomation.dll
+D:\JIra\NewJiraAutomation\obj\Release\net8.0\NewJiraAutomation.pdb
+D:\JIra\NewJiraAutomation\obj\Release\net8.0\NewJiraAutomation.genruntimeconfig.cache
+D:\JIra\NewJiraAutomation\obj\Release\net8.0\ref\NewJiraAutomation.dll
